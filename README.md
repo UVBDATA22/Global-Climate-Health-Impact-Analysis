@@ -10,7 +10,7 @@ It combines SQL, Python, and Power BI to uncover patterns like:
 
 - **🌡️ Rising temperatures** → Heat-related illnesses  
 - **🌫️ Air pollution** → Respiratory diseases  
-- **🌪️ Extreme weather** → Disease risks  
+- **🌪️ Extreme weather** → Disease risks   
 - **💰 Economic inequality** → Healthcare access  
 
 ---
