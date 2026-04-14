@@ -146,20 +146,3 @@ WHERE heat_wave_days > 0
 GROUP BY country_name
 ORDER BY risk_rank
 LIMIT 5;
-
-
-
--- INSERT INTO climate (country_name, region, year, temperature_celsius, heat_wave_days, respiratory_disease_rate, vector_disease_risk_score)
--- VALUES
--- ('CountryA', 'North', 2022, 25.6, 5, 15.2, 0.8);
-
--- SELECT *
--- FROM climate
--- WHERE country_name = 'CountryA'
---   AND year = 2022;
-  
---   DELETE FROM climate
--- WHERE country_name = 'CountryA'
---   AND year = 2022;
-
-
