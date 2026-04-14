@@ -58,6 +58,8 @@ FROM climate
 GROUP BY region
 ORDER BY total_heat_illnesses DESC;
 
+---
+
 ### 📊 Key Insights
 **🌡️ Temperature vs Health**
 Increase in temperature directly increases heat-related illnesses
@@ -70,6 +72,8 @@ Low-income countries suffer more due to:
 Poor healthcare access
 Higher vulnerability
 
+---
+
 ### 📈 Power BI Dashboard Features
 Interactive filters by region, country, year
 Visual comparison of:
@@ -77,6 +81,8 @@ Temperature vs illnesses
 Pollution vs respiratory diseases
 Economic status vs healthcare access
 KPI cards for quick insights
+
+---
 
 ### 🚀 How to Run This Project
 1️⃣ SQL Analysis
@@ -89,17 +95,23 @@ Run all cells for data cleaning & EDA
 Open .pbix file
 Refresh dataset if needed
 
+---
+
 ### 📌 Business Use Cases
 Public health policy planning
 Climate risk assessment
 Healthcare resource allocation
 Environmental impact analysis
 
+---
+
 ### 📚 Learning Outcomes
 Advanced SQL (CTE, Window Functions, Aggregations)
 Data storytelling with Power BI
 Real-world data analysis workflow
 Connecting climate data with health outcomes
+
+---
 
 ### 🤝 Contribution
 Feel free to fork this repo, raise issues, or suggest improvements!
