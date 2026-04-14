@@ -57,7 +57,7 @@ SELECT
 FROM climate
 GROUP BY region
 ORDER BY total_heat_illnesses DESC;
-
+```
 ---
 
 ### 📊 Key Insights
