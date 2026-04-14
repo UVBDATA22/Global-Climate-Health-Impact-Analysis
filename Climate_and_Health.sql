@@ -1,5 +1,3 @@
-SELECT * FROM climate LIMIT 20;
-
 -- 1 : Query: Region-wise Total Heat Illnesses
 SELECT
     region,
