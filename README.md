@@ -25,7 +25,7 @@ It combines SQL, Python, and Power BI to uncover patterns like:
  ┣ 📁 Climate_and_Health_Clean_File.csv
  ┣ 📁 Row_Climate_and_Health.csv
  ┗ 📄 README.md
-   
+ ```   
 
 ---
 
